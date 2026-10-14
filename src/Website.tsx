@@ -308,8 +308,8 @@ export default function Website({ onEnterDemo, onWatchAutoDemo }: WebsiteProps) 
             </button>
             <div className="text-sm text-slate-500">
               or email directly:{' '}
-              <a href="mailto:support@vetoplane.com" className="font-mono text-blue-400 hover:text-blue-300 transition-colors">
-                support@vetoplane.com
+              <a href="mailto:founder@vetoplane.com" className="font-mono text-blue-400 hover:text-blue-300 transition-colors">
+                founder@vetoplane.com
               </a>
             </div>
           </div>
@@ -425,7 +425,7 @@ function FounderSection({ onTalkToFounder }: { onTalkToFounder: () => void }) {
   )
 }
 
-const CONTACT_EMAIL = 'support@vetoplane.com'
+const CONTACT_EMAIL = 'founder@vetoplane.com'
 
 // ── Founder Chat Modal ─────────────────────────────────────────────────────────
 function FounderChatModal({ onClose }: { onClose: () => void }) {
