@@ -1,8 +1,8 @@
 {
-  "title": "AgentSentry",
+  "title": "Vetoplane | Enterprise AI Agent Governance",
   "description": "Streamline project management with intuitive task tracking and collaboration tools designed for teams to enhance productivity and communication.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
